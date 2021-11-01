@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter PassWord</string>
+    <string name="reenter_password">ReEnter PassWord</string>
+    <string name="enter_birthday_date">Enter Birthday Date</string>
+    <string name="show_massage">Show Massage</string>
+</resources>
